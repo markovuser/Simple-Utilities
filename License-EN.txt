@@ -1,0 +1,56 @@
+Copyright ™ © ® Nikolay Markov 2010 - 2025. All rights reserved.
+
+Please read this license agreement carefully.
+
+This license agreement is an electronic contract,
+Signed between the author (Nikolay Markov) and
+the User (an individual or a legal entity). Upon
+Signing this agreement (selecting "I accept the terms
+of the Agreement" when installing the program), it comes into full
+Legal force.
+
+The program may be freely distributed only in the form
+In which it is supplied, i.e. Without any changes.
+
+This program is distributed on an "as is" basis.
+No warranties, express or
+Implied, are provided. You use the program at your own
+Risk. Neither the author nor his authorized agents shall be
+Responsible for data loss, damage, loss of
+Profit or any other kind of loss related to
+Use (correct or incorrect) of this
+Program.
+
+The user has the right
+
+- to use the program for an unlimited time, and also
+without functional limitations.
+
+Other conditions
+
+No company or individual shall charge a fee for
+Distribution of the program without the written consent of the
+Copyright holder.
+
+The program is distributed on an "as is" basis.
+There are no warranties, express or
+Implied. You use it at your own
+Risk. Neither the author nor his authorized
+Agents shall be liable for data loss,
+Damage, loss of profit or any other kind of
+Losses related to use (correct or
+Incorrect) of this program.
+
+You may not use, copy, emulate, clone,
+Rent, lease, sell, modify,
+Decompile, disassemble, transfer the licensed
+
+program or any part of it except as described in this license.
+Any such unauthorized use results in
+Immediate and automatic termination of this
+License and may subject you to criminal and/or civil
+Prosecution.
+
+If you do not agree to the terms of this license, you must delete
+the program files from your storage devices and refrain from
+further use of the program.
