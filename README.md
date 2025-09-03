@@ -19,5 +19,5 @@ Registry Cleaner - A program for fixing registry errors.<br>
 Registry Search - A program for searching for information in the registry.<br>
 Startup Manager - A manager of programs recorded in startup.<br>
 Uninstall Manager - A program about installed programs.<br>
-<br></div>
-  <div align=center><a href="https://github.com/markovuser/Simple-Utilities/releases/download/latest/Simple.Utilities.setup.exe" target="_blank" title="FileList" class="underline-one" download=""><b id="download_button"><span style="font-display:auto;font-size: 40px;">Download</span></b></a></div>
+<br>
+<a href="https://github.com/markovuser/Simple-Utilities/releases/download/latest/Simple.Utilities.setup.exe" target="_blank" title="FileList" class="underline-one" download=""><b id="download_button"><span style="font-display:auto;font-size: 40px;">Download</span></b></a></div>
