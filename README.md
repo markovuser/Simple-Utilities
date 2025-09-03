@@ -20,4 +20,5 @@ Registry Search - A program for searching for information in the registry.<br>
 Startup Manager - A manager of programs recorded in startup.<br>
 Uninstall Manager - A program about installed programs.<br>
 <br>
+<img src=https://github.com/markovuser/Simple-Utilities/releases/download/latest/su.jpg><br><br>
 <a href="https://github.com/markovuser/Simple-Utilities/releases/download/latest/Simple.Utilities.setup.exe" target="_blank" title="FileList" class="underline-one" download=""><b id="download_button"><span style="font-display:auto;font-size: 40px;">Download</span></b></a></div>
