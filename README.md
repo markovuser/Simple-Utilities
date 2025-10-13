@@ -42,13 +42,13 @@ Uninstall Manager - A program about installed programs.<br>
 
 <div align="center">
 <a href="https://github.com/markovuser/Simple-Utilities/releases/latest"><img src="https://img.shields.io/github/v/release/markovuser/Simple-Utilities?style=for-the-badge&labelColor=3d3d3d&color=179962" alt="Version"></a>
-<a href="https://github.com/markovuser/Simple-Utilities/releases/latest/download/Simple.Utilities.setup.exe"><img src="https://img.shields.io/github/downloads/markovuser/Simple-Utilities/total?style=for-the-badge&logo=github&color=blue" alt="Downloads"></a>
+<a href="https://github.com/markovuser/Simple-Utilities/releases/latest/download/Simple-Utilities-setup.exe"><img src="https://img.shields.io/github/downloads/markovuser/Simple-Utilities/total?style=for-the-badge&logo=github&color=blue" alt="Downloads"></a>
 
 </div>
 <br><br>
 
 <div align="center">
   
-[<img src="https://raw.githubusercontent.com/markovuser/Simple-Utilities/main/assets/download.png" width="250" alt="Download">](https://github.com/markovuser/Simple-Utilities/releases/latest/download/Simple.Utilities.setup.exe)
+[<img src="https://raw.githubusercontent.com/markovuser/Simple-Utilities/main/assets/download.png" width="250" alt="Download">](https://github.com/markovuser/Simple-Utilities/releases/latest/download/Simple-Utilities-setup.exe)
 
 </div>
