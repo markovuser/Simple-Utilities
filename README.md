@@ -49,7 +49,7 @@ Uninstall Manager - A program about installed programs.<br>
 
 <div align="center">
   
-[<img src="https://raw.githubusercontent.com/markovuser/Simple-Utilities/main/assets/download.png" width="250" alt="Download">](https://github.com/markovuser/Simple-Utilities/releases/latest/download/Simple-Utilities-setup.exe)<br>
-[<img src="https://raw.githubusercontent.com/markovuser/Simple-Utilities/main/assets/downloadport.png" width="250" alt="Download">](https://github.com/markovuser/Simple-Utilities/releases/latest/download/Simple.Utilities.zip)
+[<img src="https://raw.githubusercontent.com/markovuser/Simple-Utilities/main/assets/download.png" width="250" alt="Download" title="Installer">](https://github.com/markovuser/Simple-Utilities/releases/latest/download/Simple-Utilities-setup.exe)<br>
+[<img src="https://raw.githubusercontent.com/markovuser/Simple-Utilities/main/assets/downloadport.png" width="250" alt="Download" title="Portable">](https://github.com/markovuser/Simple-Utilities/releases/latest/download/Simple.Utilities.zip)
 
 </div>
