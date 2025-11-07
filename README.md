@@ -1,17 +1,14 @@
 <div align="center">
-# Simple Utilities
+<h1># Simple Utilities</h1>
 </div>
 <div align="center">
-<b>Utilities for Windows 10, 11</b><br><br>
+<b>Utilities for Windows 10, 11</b><br>
   [EN]<br>
 <b>A free set of tools designed for computers.</b><br>
-
 This software provides a set of tools,<br>
 which include functions to improve PC performance,<br>
 ensure its security and optimize the startup procedure.<br>
-
 This set of tools is designed for all PC users from beginners to experts.<br>
-
 Some features...<br>
 
 Attributes Manager - A program for changing file attributes.<br>
@@ -26,15 +23,11 @@ Startup Manager - A manager of programs recorded in startup.<br>
 Uninstall Manager - A program about installed programs.<br><br><hr>
 [RU]<br>
 <b>Бесплатный набор инструментов для компьютеров.</b><br>
-
 Это программное обеспечение предоставляет набор инструментов,<br>
 включающих функции для повышения производительности ПК,<br>
 обеспечения его безопасности и оптимизации процесса запуска.<br>
-
 Этот набор инструментов предназначен для всех пользователей ПК, от новичков до экспертов.<br>
-
 Некоторые функции...<br>
-
 Attributes Manager — программа для изменения атрибутов файлов.<br>
 Disk Cleaner — программа для очистки Windows от ненужных файлов.<br>
 File EnCrypt DeCrypt — программа для шифрования файлов.<br>
