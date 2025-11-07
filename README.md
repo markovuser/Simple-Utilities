@@ -1,9 +1,10 @@
 <div align="center">
 # Simple Utilities
 </div>
-<div align=center>
-<b>Utilities for Windows 10, 11</b><br></br>
-A free set of tools designed for computers.<br><br>
+<div align="center">
+<b>Utilities for Windows 10, 11</b><br><br>
+  [EN]<br>
+<b>A free set of tools designed for computers.</b><br>
 
 This software provides a set of tools,<br>
 which include functions to improve PC performance,<br>
@@ -22,7 +23,28 @@ Network Manager - A network settings manager.<br>
 Registry Cleaner - A program for fixing registry errors.<br>
 Registry Search - A program for searching for information in the registry.<br>
 Startup Manager - A manager of programs recorded in startup.<br>
-Uninstall Manager - A program about installed programs.<br>
+Uninstall Manager - A program about installed programs.<br><br><hr>
+[RU]<br>
+<b>Бесплатный набор инструментов для компьютеров.</b><br>
+
+Это программное обеспечение предоставляет набор инструментов,<br>
+включающих функции для повышения производительности ПК,<br>
+обеспечения его безопасности и оптимизации процесса запуска.<br>
+
+Этот набор инструментов предназначен для всех пользователей ПК, от новичков до экспертов.<br>
+
+Некоторые функции...<br>
+
+Attributes Manager — программа для изменения атрибутов файлов.<br>
+Disk Cleaner — программа для очистки Windows от ненужных файлов.<br>
+File EnCrypt DeCrypt — программа для шифрования файлов.<br>
+Folder Icon Changer — программа для установки значка на папку.<br>
+Libraries Manager — менеджер регистрации библиотек Windows.<br>
+Network Manager — менеджер сетевых настроек.<br>
+Registry Cleaner — программа для исправления ошибок реестра.<br>
+Registry Search — программа для поиска информации в реестре.<br>
+Startup Manager — менеджер записанных программ. в автозагрузке.<br>
+Uninstall Manager — программа для управления установленными программами.<br><hr>
 </div>
 
 <div align="center">
@@ -39,7 +61,7 @@ Uninstall Manager - A program about installed programs.<br>
   <img src=https://raw.githubusercontent.com/markovuser/Simple-Utilities/main/assets/su11.jpg width="250">
   <br><br>
 </div>
-
+<hr>
 <div align="center">
 <a href="https://github.com/markovuser/Simple-Utilities/releases/latest"><img src="https://img.shields.io/github/v/release/markovuser/Simple-Utilities?style=for-the-badge&labelColor=3d3d3d&color=179962" alt="Version"></a>
 <a href="https://github.com/markovuser/Simple-Utilities/releases/latest/download/Simple-Utilities-setup.exe"><img src="https://img.shields.io/github/downloads/markovuser/Simple-Utilities/total?style=for-the-badge&logo=github&color=blue" alt="Downloads"></a>
