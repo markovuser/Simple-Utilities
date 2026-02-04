@@ -1,0 +1,7 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>1899.12.30 00:00:00.000.733,=C:\Users\USER\Documents\Embarcadero\Studio\37.0\Imports\TaskScheduler_TLB.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.363,C:\Users\USER\Documents\Embarcadero\Studio\37.0\Imports\TaskScheduler_TLB.pas=D:\Delphi Programs\Simple Utilities\Startup Manager\Units\WinTask\TaskScheduler_TLB.pas</Transaction>
+  </Transactions>
+</BorlandProject>
