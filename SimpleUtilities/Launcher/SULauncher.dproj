@@ -102,13 +102,13 @@
         <DCC_DebugInformation>0</DCC_DebugInformation>
     </PropertyGroup>
     <PropertyGroup Condition="'$(Cfg_1_Win32)'!=''">
-        <VerInfo_Keys>CompanyName=Nikolay Markov;FileVersion=7.7.26.204;InternalName=Simple Utilities;LegalCopyright=Copyright © 2010-2026 All Rights Reserved.;LegalTrademarks=Nikolay Markov;OriginalFilename=Simple Utilities;ProductVersion=7.7.26.204;Comments=Simple Utilities;ProgramID=Simple Utilities;FileDescription=Simple Utilities;ProductName=Simple Utilities</VerInfo_Keys>
-        <VerInfo_Build>204</VerInfo_Build>
+        <VerInfo_Keys>CompanyName=Nikolay Markov;FileVersion=7.7.26.205;InternalName=Simple Utilities;LegalCopyright=Copyright © 2010-2026 All Rights Reserved.;LegalTrademarks=Nikolay Markov;OriginalFilename=Simple Utilities;ProductVersion=7.7.26.205;Comments=Simple Utilities;ProgramID=Simple Utilities;FileDescription=Simple Utilities;ProductName=Simple Utilities</VerInfo_Keys>
+        <VerInfo_Build>205</VerInfo_Build>
         <AppExecutionLevel>highestAvailable</AppExecutionLevel>
         <BT_BuildType>Debug</BT_BuildType>
         <Icon_MainIcon>SULauncher_Icon.ico</Icon_MainIcon>
         <AppDPIAwarenessMode>PerMonitorV2</AppDPIAwarenessMode>
-        <DCC_ExeOutput>..\..\Application\Simple Utilities\</DCC_ExeOutput>
+        <DCC_ExeOutput>..\..\..\Application\Simple Utilities\</DCC_ExeOutput>
         <VerInfo_MajorVer>7</VerInfo_MajorVer>
         <VerInfo_IncludeVerInfo>true</VerInfo_IncludeVerInfo>
         <VerInfo_Release>26</VerInfo_Release>
